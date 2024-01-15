@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LimoQu!zz</string>
+
+    <string name="solo_game_name">Solo</string>
+    <string name="duo_game_name">Duo</string>
+    <string name="mode_titre">Mode de jeu</string>
+
+</resources>
